@@ -18,6 +18,6 @@ public P1_4(int a, int b, int c) {
 		}
 public P1_4(int a, int b, int c, int d) {
 	this(1);
-	System.out.println("Parent4");
+	System.out.println("Parent4 test");
 		}
 }

@@ -20,6 +20,7 @@ public class C1_3 extends P1_4{
 
 	public static void main(String[] args) {
 		C1_3 c=new C1_3();
+		System.out.println("Pass");
 
 	}
 
