@@ -23,7 +23,7 @@ public class Example {
 		int sub=exa.substraction(new_additionResult, 2);
 		int mul =exa.multiplication(2, sub);
         int division= mul/2;
-       System.out.println("Final result =" + division);
+    System.out.println("Final result =" + division);
 		}
 
 }
